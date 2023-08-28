@@ -1,7 +1,6 @@
 # Project Title: Share Price Prediction Project
 # Table of Contents
 - Introduction
-- Project Structure
 - Getting Started
 - Data Collection
 - Data Preprocessing
